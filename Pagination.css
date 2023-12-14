@@ -1,0 +1,13 @@
+.pagination-controls{
+  margin-top: 20px;
+}
+.paginated-table{
+  width:90%;
+  margin:30px auto;
+}
+.paginated-table tbody{
+  text-align: center;
+} 
+.pagination-controls button{
+  margin:0px 20px;
+}
